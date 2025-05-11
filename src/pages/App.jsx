@@ -9,7 +9,6 @@ function App() {
     <>
     <Hero />
 
-    <Link to={"/about"}>About Page</Link>
     </>
   )
 }

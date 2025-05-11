@@ -1,3 +1,6 @@
+import { Link } from "react-router";
+
+
 function Hero() {
   return (
     <>
@@ -15,7 +18,7 @@ function Hero() {
               of Exile, the game was released as a paid early access title for
               Windows PC, PlayStation 5 and Xbox Series X/S on December 6, 2024.
             </p>
-            <button className="btn btn-primary">Get Started</button>
+            <Link to={"/about"} className="bg-slate-900 text-white py-2 px-8 inline-block align-middle font-bold m-2 hover:bg-cyan-800">Read More</Link>
           </div>
         </div>
       </div>

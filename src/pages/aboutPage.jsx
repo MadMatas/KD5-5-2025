@@ -1,10 +1,15 @@
 import { Link } from "react-router"
+import Carousel from "../components/carousel"
+import Accordion from "../components/accordion"
+
 
 function AboutPage() {
     return (
         <>
-            <p>About page</p>
-             <Link to={"/"} >Main Page</Link> {/*Style'inimas kaip <a></a> elemento */}
+            <Link to={"/"} className="bg-slate-900 text-white py-2 px-8 inline-block align-middle font-bold m-2 hover:bg-cyan-800">Back</Link> {/*Style'inimas kaip <a></a> elemento */}
+            <Carousel />
+            <Accordion />
+
         </>
     )
 }
