@@ -6,7 +6,7 @@ function HeroElden() {
       <div className="hero bg-base-200 min-h-screen">
         <div className="hero-content flex-col lg:flex-row">
           <img
-            src="https://i0.wp.com/twistedvoxel.com/wp-content/uploads/2019/03/sekiro-shadows-die-twice-review.jpg?fit=1920%2C1080&ssl=1"
+            src="https://steamforged.com/cdn/shop/collections/ER-collection-2000x1125-780428.png?v=1743077065"
             className="max-w-sm rounded-lg shadow-2xl"
           />
           <div>

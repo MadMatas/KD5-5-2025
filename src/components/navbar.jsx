@@ -19,10 +19,10 @@ function NavBar() {
                 <summary>Games</summary>
                 <ul className="bg-base-100 rounded-t-none p-2">
                   <li>
-                    <Link to="/Sekiro">Sekiro</Link>
+                    <Link to="/sekiro">Sekiro</Link>
                   </li>
                   <li>
-                    <Link to="">Link2</Link>
+                    <Link to="/elden">Elden Ring</Link>
                   </li>
                 </ul>
               </details>

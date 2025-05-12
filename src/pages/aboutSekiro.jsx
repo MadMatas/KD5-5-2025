@@ -21,21 +21,21 @@ function AboutSekiro() {
           alt=""
         />
       </div>
-      <div className="">
-        <div className="collapse bg-base-100 border-base-300 border">
+      <div className="ml-[10em] mr-[10em] mt-[3em]">
+        <div className="collapse bg-base-100 border-base-300 border my-3">
           <input type="checkbox" />
-          <div className="collapse-title font-semibold">Sekiro</div>
-          <div className="collapse-content text-sm">Yes.</div>
+          <div className="collapse-title font-semibold">Unique and Challenging Combat System</div>
+          <div className="collapse-content text-sm">Sekiro's combat revolves around posture and timing rather than traditional health depletion. The parry-focused system demands precision and rewards skill, making every duel—especially boss fights—feel intense and personal.</div>
         </div>
-        <div className="collapse bg-base-100 border-base-300 border">
+        <div className="collapse bg-base-100 border-base-300 border my-3">
           <input type="checkbox" />
-          <div className="collapse-title font-semibold">Sekiro</div>
-          <div className="collapse-content text-sm">Yes.</div>
+          <div className="collapse-title font-semibold">Incredible Boss Fights and Enemy Design</div>
+          <div className="collapse-content text-sm">The game features some of the most memorable and cinematic boss battles in FromSoftware's catalog. Each boss has unique patterns and mechanics, and many are designed to test specific skills the player has (or should have) developed.</div>
         </div>
-        <div className="collapse bg-base-100 border-base-300 border">
+        <div className="collapse bg-base-100 border-base-300 border my-3">
           <input type="checkbox" />
-          <div className="collapse-title font-semibold">Sekiro</div>
-          <div className="collapse-content text-sm">Yes.</div>
+          <div className="collapse-title font-semibold">Immersive World and Storytelling</div>
+          <div className="collapse-content text-sm">Set in a mythologized Sengoku-era Japan, Sekiro's world is richly detailed and atmospheric. The narrative, though more direct than Dark Souls or Bloodborne, still offers layers of mystery and depth, particularly through environmental storytelling and lore.</div>
         </div>
       </div>
     </>

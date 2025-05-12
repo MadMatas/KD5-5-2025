@@ -10,7 +10,7 @@ function HeroSekiro() {
             className="max-w-sm rounded-lg shadow-2xl"
           />
           <div>
-            <h1 className="text-5xl font-bold">Sekiro</h1>
+            <h1 className="text-5xl font-bold">Sekiro: Shadows Die Twice</h1>
             <p className="py-6">
               Sekiro: Shadows Die Twice is a 2019 action-adventure game
               developed by FromSoftware. It was released in Japan by
